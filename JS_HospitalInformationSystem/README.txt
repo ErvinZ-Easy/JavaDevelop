@@ -1,0 +1,12 @@
+Supplier.png
+https://www.fona.com/wp-content/uploads/2019/02/OTC-pharmacy-medicine-syrup-cough-health-care_CROP.jpg
+MGH3.png
+https://mayorshealthline.files.wordpress.com/2011/03/mass-general-12.jpg
+MGH2.png
+https://www.masslive.com/resizer/DC1wZVYvpOYWV5QLsj6F4Gd7N_w=/700x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/05c0df54ba/width2048/502_download.jpeg
+MGH1.png
+https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiO9oDEyfzlAhWPERQKHZMrCigQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.facebook.com%2Fmassgeneral%2Fposts%2Fwere-excited-to-cheer-on-our-super-bowl-champions-the-new-england-patriots-at-th%2F10157410555509880%2F&psig=AOvVaw2C1fgXqJwK1MH6BNi2JAk9&ust=1574469346433224
+MI.png
+https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjeqKPOyfzlAhXN8eAKHdniAoMQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.huntins.com%2Finmatemedical&psig=AOvVaw0KHC9bnG3_toONfTxIADTY&ust=1574469365987506
+patient.png
+https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiVqY_3yfzlAhUMA2MBHdLPAF0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.closingthegap.ca%2Fguides%2Fpalliative-care-in-ontario-everything-you-need-to-know%2F&psig=AOvVaw3e414y0XKXwfEMqAusUUyI&ust=1574469405901780
