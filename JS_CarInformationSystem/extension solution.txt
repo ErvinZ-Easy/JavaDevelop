@@ -1,0 +1,12 @@
+additional extensions:
+(1)model a ride from a to b
+(2)determine current location
+
+Solution1:
+①Set coordinates of regulation scope(like a city or a country or continent)
+②a(xa,ya),b(xb,yb),a to b ride model equals moving from (xa,ya) to (xb,yb) 
+③current location equals the coordinate of the car.create the car  class and its speed attribute.And the location is based on time.
+
+Solution2:
+use GPS to decide a and b 's Longitudinal and latitudinal coordinates.
+use GPS to determine the car's location.
